@@ -9,8 +9,8 @@ repo contains test.csv and train.csv use for ML model testing
 ## feature selection EDA
 feature selected based on correlation with target vraiable (HDB prices)
 
-## model testing
-- log regression
+## linear regression and XGBoost model testing
+- linear regression
     RSME : $72,109
     R2: 0.75
 
